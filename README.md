@@ -16,7 +16,7 @@ export default {
   },
   plugins: [],
 }
-6. create jsconfig.js
+6. create jsconfig.json
 {
     "compilerOptions": {
       "baseUrl": ".",
