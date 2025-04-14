@@ -2,7 +2,7 @@
 2. npm i -D tailwindcss@3 postcss autoprefixer
 3. npx tailwind init -p
 4. @tailwind base; @tailwind components; @tailwind utilites;
-5. content: ["./index.html", "./src/**/.{js,ts,jsx,tsx}", ],
+5. content: ["./src/**/*.{html,js}"],
 6. create jsonfig.json:  {
     "compilerOptions": {
       "baseUrl": ".",
